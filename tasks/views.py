@@ -5,6 +5,7 @@ from django.views.generic.edit import CreateView, UpdateView
 from django.views.generic.list import ListView
 
 from tasks.models import Task
+
 # Create your views here.
 
 

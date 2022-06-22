@@ -5,6 +5,7 @@ from django.views.generic.detail import DetailView
 from django.views.generic.edit import CreateView
 
 from projects.models import Project
+
 # Create your views here.
 
 
